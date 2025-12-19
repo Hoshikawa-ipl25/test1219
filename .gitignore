@@ -1,0 +1,20 @@
+# 行頭の#はコメントです
+
+# OS回有のファイル
+.DS_Store
+
+# ログファイルやー時フォルダ
+*. log
+tmp/
+
+# 特定の拡張子を全て無視
+*. exe
+
+# 特定のフォルダ内のファイルを無視
+node_modules/
+
+Thumbs.db
+thumbs.db
+
+Desktop.ini
+desktop.ini
